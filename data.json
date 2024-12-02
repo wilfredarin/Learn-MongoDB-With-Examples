@@ -1,0 +1,271 @@
+[
+  {
+    title: "Journey to the Unknown",
+    author: "ABC",
+    pages: 320,
+    rating: 8,
+    genres: ["Adventure", "Fantasy"],
+    reviews: [
+      { name: "John Doe", body: "A thrilling adventure from start to finish!" },
+      { name: "Jane Smith", body: "Loved the world-building." }
+    ]
+  },
+  {
+    title: "The Mystery of the Lost Island",
+    author: "XYZ",
+    pages: 280,
+    rating: 7.5,
+    genres: ["Mystery", "Adventure"],
+    reviews: [{ name: "Anna Brown", body: "Kept me on the edge of my seat." }]
+  },
+  {
+    title: "Secrets of the Ocean",
+    author: "ABC",
+    pages: 350,
+    rating: 9,
+    genres: ["Fantasy", "Sci-Fi"],
+    reviews: [
+      { name: "Peter Parker", body: "Absolutely loved the oceanic world." }
+    ]
+  },
+  {
+    title: "Dreams of the Future",
+    author: "PQR",
+    pages: 200,
+    rating: 6,
+    genres: ["Sci-Fi"],
+    reviews: [{ name: "Bruce Wayne", body: "An interesting take on the future." }]
+  },
+  {
+    title: "Legends of the Past",
+    author: "LMN",
+    pages: 420,
+    rating: 7,
+    genres: ["History", "Adventure"],
+    reviews: [{ name: "Clark Kent", body: "A fascinating dive into history." }]
+  },
+  {
+    title: "Magic and Mayhem",
+    author: "XYZ",
+    pages: 310,
+    rating: 8.5,
+    genres: ["Fantasy"],
+    reviews: [
+      { name: "Diana Prince", body: "Full of magic and surprises!" },
+      { name: "Tony Stark", body: "Loved the characters and plot twists." }
+    ]
+  },
+  {
+    title: "The Haunted Forest",
+    author: "ABC",
+    pages: 250,
+    rating: 5.5,
+    genres: ["Horror"],
+    reviews: [{ name: "Natasha Romanoff", body: "Creepy and atmospheric." }]
+  },
+  {
+    title: "Science for the Curious",
+    author: "Dr. Einstein",
+    pages: 220,
+    rating: 8,
+    genres: ["Science"],
+    reviews: [{ name: "Bruce Banner", body: "Simple explanations for complex ideas." }]
+  },
+  {
+    title: "The Final Battle",
+    author: "ABC",
+    pages: 370,
+    rating: 9.5,
+    genres: ["Fantasy", "Action"],
+    reviews: [
+      { name: "Steve Rogers", body: "An epic conclusion to a great saga." }
+    ]
+  },
+  {
+    title: "The Code Breaker",
+    author: "LMN",
+    pages: 290,
+    rating: 7.8,
+    genres: ["Thriller", "Tech"],
+    reviews: [{ name: "Sam Wilson", body: "A fast-paced tech thriller." }]
+  },
+  {
+    title: "Whispers of the Wind",
+    author: "PQR",
+    pages: 310,
+    rating: 6.8,
+    genres: ["Romance", "Drama"],
+    reviews: [{ name: "Carol Danvers", body: "A heartwarming story." }]
+  },
+  {
+    title: "Chasing the Horizon",
+    author: "XYZ",
+    pages: 240,
+    rating: 7.2,
+    genres: ["Adventure"],
+    reviews: [{ name: "Wanda Maximoff", body: "A beautiful journey of discovery." }]
+  },
+  {
+    title: "The Art of Deception",
+    author: "LMN",
+    pages: 330,
+    rating: 8.2,
+    genres: ["Mystery", "Drama"],
+    reviews: [{ name: "Stephen Strange", body: "A masterful plot with twists." }]
+  },
+  {
+    title: "Hidden Realms",
+    author: "ABC",
+    pages: 280,
+    rating: 7.9,
+    genres: ["Fantasy", "Sci-Fi"],
+    reviews: [{ name: "Loki Laufeyson", body: "Mysterious and captivating." }]
+  },
+  {
+    title: "Rise of the Machines",
+    author: "PQR",
+    pages: 400,
+    rating: 9,
+    genres: ["Sci-Fi", "Action"],
+    reviews: [{ name: "Vision", body: "Thought-provoking and action-packed." }]
+  },
+  {
+    title: "Tales from the Abyss",
+    author: "XYZ",
+    pages: 275,
+    rating: 6.5,
+    genres: ["Horror", "Thriller"],
+    reviews: [{ name: "Hawkeye", body: "Chilling and intense." }]
+  },
+  {
+    title: "Echoes of Eternity",
+    author: "ABC",
+    pages: 380,
+    rating: 8.7,
+    genres: ["Fantasy"],
+    reviews: [
+      { name: "Thor Odinson", body: "A tale of gods and mortals." },
+      { name: "Hulk", body: "Smashingly good!" }
+    ]
+  },
+  {
+    title: "The Forgotten City",
+    author: "LMN",
+    pages: 260,
+    rating: 7,
+    genres: ["Adventure", "History"],
+    reviews: [{ name: "Nick Fury", body: "An archaeological mystery." }]
+  },
+  {
+    title: "Beyond the Stars",
+    author: "XYZ",
+    pages: 300,
+    rating: 9.2,
+    genres: ["Sci-Fi", "Adventure"],
+    reviews: [{ name: "Rocket Raccoon", body: "A space epic like no other." }]
+  },
+  {
+    title: "The Enchanted Forest",
+    author: "ABC",
+    pages: 340,
+    rating: 7.4,
+    genres: ["Fantasy", "Adventure"],
+    reviews: [{ name: "Groot", body: "I am Groot!" }]
+  },
+
+
+  {
+    title: "Shadows of the Past",
+    author: "XYZ",
+    pages: 315,
+    rating: 6.9,
+    genres: ["Mystery", "Horror"],
+    reviews: [{ name: "Bucky Barnes", body: "Dark and suspenseful." }]
+  },
+  {
+    title: "Wonders of the Universe",
+    author: "Dr. Neil",
+    pages: 450,
+    rating: 9.5,
+    genres: ["Science", "Non-Fiction"],
+    reviews: [
+      { name: "Reed Richards", body: "Inspiring and educational." }
+    ]
+  },
+  {
+    title: "The Crimson Crown",
+    author: "ABC",
+    pages: 370,
+    rating: 8.8,
+    genres: ["Fantasy", "Action"],
+    reviews: [
+      { name: "Black Widow", body: "An exhilarating fantasy epic." }
+    ]
+  },
+  {
+    title: "Beneath the Waves",
+    author: "LMN",
+    pages: 290,
+    rating: 7.6,
+    genres: ["Adventure", "Mystery"],
+    reviews: [{ name: "Aquaman", body: "A deep-sea mystery adventure." }]
+  },
+  {
+    title: "The Last Stand",
+    author: "PQR",
+    pages: 340,
+    rating: 9,
+    genres: ["Sci-Fi", "Action"],
+    reviews: [
+      { name: "Scott Summers", body: "Intense and action-packed!" }
+    ]
+  },
+  {
+    title: "Fables and Legends",
+    author: "XYZ",
+    pages: 210,
+    rating: 6.5,
+    genres: ["Fantasy", "Drama"],
+    reviews: [{ name: "Peter Quill", body: "Charming and whimsical tales." }]
+  },
+  {
+    title: "The Clockwork City",
+    author: "LMN",
+    pages: 400,
+    rating: 8.2,
+    genres: ["Fantasy", "Steampunk"],
+    reviews: [
+      { name: "Victor Von Doom", body: "Ingeniously crafted world." }
+    ]
+  },
+  {
+    title: "Memoirs of the Unknown",
+    author: "Dr. Strange",
+    pages: 270,
+    rating: 8.5,
+    genres: ["Mystery", "Non-Fiction"],
+    reviews: [
+      { name: "Wong", body: "A fascinating blend of reality and magic." }
+    ]
+  },
+  {
+    title: "The Infinite Loop",
+    author: "PQR",
+    pages: 310,
+    rating: 7.9,
+    genres: ["Sci-Fi", "Thriller"],
+    reviews: [{ name: "Tony Stark", body: "Mind-bending and thrilling." }]
+  },
+  {
+    title: "Paths of Destiny",
+    author: "ABC",
+    pages: 360,
+    rating: 8.3,
+    genres: ["Fantasy", "Adventure"],
+    reviews: [
+      { name: "Steve Rogers", body: "An inspiring journey of courage." }
+    ]
+  }
+]
+
+
