@@ -16,23 +16,23 @@ Run the following commands in your MongoDB shell to create and populate the coll
 
 1. **Create `authors` collection and insert data**:  
    ```javascript
-   db.authors.insertMany([
+   db.authors.insertMany(
      // Copy and paste the entire `authors.json` data here
-   ])
+   )
    ```  
 
 2. **Create `data` collection and insert data**:  
    ```javascript
-   db.data.insertMany([
+   db.data.insertMany(
      // Copy and paste the entire `data.json` data here
-   ])
+   )
    ```  
 
 3. **Create `books` collection and insert data**:  
    ```javascript
-   db.books.insertMany([
+   db.books.insertMany(
      // Copy and paste the entire `books.json` data here
-   ])
+   )
    ```  
 
 Once the data is inserted, you can use the collections to practice the queries in the tutorial.  
