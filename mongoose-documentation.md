@@ -1,4 +1,4 @@
-#Mongoose Documentation
+##Mongoose Documentation
 
 ## Overview
 
@@ -274,7 +274,5 @@ async function addComment(blogPostId, userId, commentText) {
 
 This comprehensive guide to Mongoose in Node.js covers key concepts for building a full-featured application with MongoDB. We’ve explored **One-to-One, One-to-Many, and Many-to-Many** relationships, as well as Mongoose features such as **validation**, **setters/getters**, **virtuals**, **instance methods**, **static methods**, **pre/post hooks**, and more.
 
-By understanding and applying these concepts, you will be able to build efficient and well-structured applications that take full advantage of MongoDB's flexibility and M
-
-ongoose's powerful features.
+By understanding and applying these concepts, you will be able to build efficient and well-structured applications that take full advantage of MongoDB's flexibility and Mongoose's powerful features.
 
